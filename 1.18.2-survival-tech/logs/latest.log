@@ -1,0 +1,85 @@
+[14:26:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:26:21] [ServerMain/WARN]: Missing data pack Fabric Mods
+[14:26:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:26:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:26:27] [Worker-Main-15/INFO]: Loaded 7 recipes
+[14:26:28] [Worker-Main-15/INFO]: Loaded 1144 advancements
+[14:26:31] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[14:26:31] [Server thread/INFO]: Loading properties
+[14:26:31] [Server thread/INFO]: Default game type: SURVIVAL
+[14:26:31] [Server thread/INFO]: Generating keypair
+[14:26:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:26:31] [Server thread/INFO]: Using default channel type
+[14:26:31] [Server thread/INFO]: Preparing level "world"
+[14:26:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:26:33] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[14:26:34] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[14:26:34] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:26:34] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:26:34] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:26:34] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[14:26:35] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:26:35] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[14:26:36] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[14:26:36] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[14:26:37] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[14:26:37] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[14:26:38] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:26:38] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[14:26:39] [Worker-Main-16/INFO]: Preparing spawn area: 1%
+[14:26:39] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[14:26:40] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[14:26:40] [Worker-Main-20/INFO]: Preparing spawn area: 4%
+[14:26:41] [Worker-Main-12/INFO]: Preparing spawn area: 7%
+[14:26:41] [Worker-Main-17/INFO]: Preparing spawn area: 10%
+[14:26:42] [Worker-Main-17/INFO]: Preparing spawn area: 11%
+[14:26:42] [Worker-Main-17/INFO]: Preparing spawn area: 12%
+[14:26:43] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[14:26:43] [Worker-Main-22/INFO]: Preparing spawn area: 15%
+[14:26:44] [Worker-Main-21/INFO]: Preparing spawn area: 16%
+[14:26:44] [Worker-Main-15/INFO]: Preparing spawn area: 23%
+[14:26:45] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[14:26:45] [Worker-Main-16/INFO]: Preparing spawn area: 44%
+[14:26:46] [Worker-Main-20/INFO]: Preparing spawn area: 48%
+[14:26:46] [Worker-Main-22/INFO]: Preparing spawn area: 52%
+[14:26:47] [Worker-Main-12/INFO]: Preparing spawn area: 60%
+[14:26:47] [Worker-Main-19/INFO]: Preparing spawn area: 77%
+[14:26:48] [Worker-Main-22/INFO]: Preparing spawn area: 90%
+[14:26:49] [Server thread/INFO]: Time elapsed: 17078 ms
+[14:26:49] [Server thread/INFO]: Done (17.307s)! For help, type "help"
+[14:27:30] [User Authenticator #1/INFO]: UUID of player Toastysmoke is 79fb7624-20c4-48d8-8a26-e131caa79b4e
+[14:27:30] [Server thread/INFO]: Toastysmoke[/127.0.0.1:10630] logged in with entity id 146 at (497.23896714586044, 69.0, -453.8834772064157)
+[14:27:30] [Server thread/INFO]: Toastysmoke joined the game
+[14:27:40] [Server thread/INFO]: Nothing changed. The player already is an operator
+[14:27:59] [Server thread/INFO]: Villager bnw['Villager'/256, l='ServerLevel[world]', x=481.30, y=68.06, z=-488.70] died, message: 'Villager was squished too much'
+[14:28:34] [Server thread/INFO]: [Toastysmoke: Set own game mode to Creative Mode]
+[14:29:05] [Server thread/INFO]: [Toastysmoke: Gamerule keepInventory is now set to: true]
+[14:29:12] [Server thread/INFO]: [Toastysmoke: Gamerule doFireTick is now set to: false]
+[14:34:23] [Server thread/INFO]: [Toastysmoke: Set own game mode to Survival Mode]
+[14:35:03] [Server thread/INFO]: [Toastysmoke: The difficulty has been set to Hard]
+[14:57:37] [Server thread/INFO]: [Toastysmoke: Set the time to 1000]
+[15:02:10] [Server thread/INFO]: [Toastysmoke: Set the time to 1000]
+[15:02:14] [Server thread/INFO]: [Toastysmoke: Set the time to 13000]
+[15:02:42] [Server thread/INFO]: [Toastysmoke: Set the time to 1000]
+[15:04:38] [Server thread/INFO]: [Toastysmoke: Summoned new Bee]
+[15:05:23] [Server thread/INFO]: [Toastysmoke: Summoned new Bee]
+[15:08:02] [Server thread/INFO]: [Toastysmoke: Set the time to 13000]
+[15:08:06] [Server thread/INFO]: [Toastysmoke: Set the time to 1000]
+[15:10:32] [Server thread/INFO]: [Toastysmoke: Set own game mode to Spectator Mode]
+[15:10:53] [Server thread/INFO]: [Toastysmoke: Set own game mode to Survival Mode]
+[15:36:07] [Server thread/INFO]: Toastysmoke lost connection: Disconnected
+[15:36:07] [Server thread/INFO]: Toastysmoke left the game
+[15:36:24] [Server thread/INFO]: Stopping the server
+[15:36:24] [Server thread/INFO]: Stopping server
+[15:36:24] [Server thread/INFO]: Saving players
+[15:36:24] [Server thread/INFO]: Saving worlds
+[15:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:36:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:36:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
